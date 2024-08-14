@@ -1,0 +1,35 @@
+{
+    "name": " (ثانوية-إعدادية)نماذج إختبارات وزارية ",
+    "short_name": "نماذج إختبارات ",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": " نماذج أختبارات للصف الثالث الثانوي والصف التاسع في الجمهورية اليمنية يتطيع الطالب من خلال موقعنا الحصول على نماج إختبارات محلولة و يستطيع الحصول على نماذج تحاكي الاختبارات الوزارية فيقم بحلها هو ويحصل على نتيجة الحل ",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../assets/exap.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "../assets/exap.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "../assets/exap.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
